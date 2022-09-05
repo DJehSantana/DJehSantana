@@ -1,13 +1,15 @@
-## Jéssica Santana (Nickname: DJehSantana)
+# Jéssica Santana (Nickname: DJehSantana)
 
 ### Hello Devs! Welcome to my Github profile! 👋
 ### Olá Devs! Sejam bem vindos ao meu GitHub!
 
 <img src="https://user-images.githubusercontent.com/105378159/188499646-ec33930d-eaf9-4d06-8466-334ba6a12676.png" width="240px" height="300px"/>
 
-#### Meu nome é Jéssica, tenho 28 anos, moro na cidade de Rio Claro - SP
-#### Atualmente estou em transição de carreira, estudando Desenvolvimento Web
-#### Me sigam no [Linkedin](https://www.linkedin.com/in/jessica-santana-b78955244/)
+Meu nome é Jéssica, tenho 28 anos, moro na cidade de Rio Claro - SP
+
+Atualmente estou em transição de carreira, estudando Desenvolvimento Web!
+
+**Me sigam no [Linkedin](https://www.linkedin.com/in/jessica-santana-b78955244/)!**
 
 ### Conhecimento nas seguintes tecnologias e ferramentas:
 <div>
@@ -31,21 +33,20 @@
 </div>
 
 ## Áreas de interesse para o futuro
-#### 1.Desenvolvimento Mobile
-#### 2.Java Backend
-#### 3.IoT
+  - Desenvolvimento Mobile
+  - Java Backend
+  - IoT
 
 ## Principais projetos e atividades
-### *Contribuição no projeto em conjunto: ProjetoDev - Brasileirismo
-#### - Projeto_Apresentacao
-#### - Financiamento POO
-### *Projeto em desenvolvimento: Gerenciador de Tarefas
+#### Contribuição no projeto em conjunto: ProjetoDev - Brasileirismo
+ - Projeto_Apresentacao
+ - Financiamento POO
+#### Projeto em desenvolvimento: Gerenciador de Tarefas
 
 ## Destaques e Conquistas:
-### *Contribuição no projeto em conjunto: ProjetoTechTeam - Sustenta Tech
-#### - Projeto vencedor do Hackaton primeira edição Tech Academy 2022 - StartSe University
-
-#### - Conclusão do curso Tech Academy 1ª turma com a 10ª melhor média da turma
+#### Contribuição no projeto em conjunto: ProjetoTechTeam - Sustenta Tech
+ - Projeto vencedor do **Hackaton** primeira edição Tech Academy 2022 - StartSe University
+ - Conclusão do curso Tech Academy 1ª turma com a 10ª melhor média da turma
 
 <div>
 <a href="https://github.com/DJehSantana">
