@@ -14,7 +14,7 @@ Atualmente estou em transição de carreira, estudando Desenvolvimento Web!
 ### Conhecimento nas seguintes tecnologias e ferramentas:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px" /> 
+<img src="https://user-images.githubusercontent.com/105378159/188524475-83652b5c-76fa-444e-8c10-faed1d113d7b.png" width="50px" height="50px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" height="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50px" height="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" height="50px" />
 </div>
@@ -29,32 +29,29 @@ Atualmente estou em transição de carreira, estudando Desenvolvimento Web!
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50px" height="50px" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="50px" height="50px" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" height="50px" />
 </div>
-
+(https://user-images.githubusercontent.com/105378159/188524475-83652b5c-76fa-444e-8c10-faed1d113d7b.png)
 ## Áreas de interesse para o futuro
   - Desenvolvimento Mobile
   - Java Backend
   - IoT
 
 ## Principais projetos e atividades
-#### Contribuição no projeto em conjunto: ProjetoDev - Brasileirismo
- - Projeto_Apresentacao
- - Financiamento POO
-#### Projeto em desenvolvimento: Gerenciador de Tarefas
+#### Contribuição no projeto em conjunto: **[ProjetoDev - Brasileirismo](https://matheusxavierr.github.io/ProjetoDev/)**
+**[Projeto_Apresentacao](https://djehsantana.github.io/Projeto_Apresentacao/)** 
+
+**[Mini site Devaria](https://djehsantana.github.io/MiniSite-Devaria/)**
+#### Projeto em desenvolvimento: Gerenciador de Tarefas - [Repositório](https://github.com/DJehSantana/GerenciadorTarefas)
 
 ## Destaques e Conquistas:
-#### Contribuição no projeto em conjunto: ProjetoTechTeam - Sustenta Tech
- - Projeto vencedor do **Hackaton** primeira edição Tech Academy 2022 - StartSe University
- - Conclusão do curso Tech Academy 1ª turma com a 10ª melhor média da turma
+#### Contribuição no projeto em conjunto: **[ProjetoTechTeam - Sustenta Tech](https://wellpt.github.io/TechTeamProject/) - Projeto vencedor do **HACKATON** primeira edição Tech Academy 2022 - StartSe University**
+#### Conclusão do curso Tech Academy 1ª turma com a 10ª melhor média da turma
 
 <div>
 <a href="https://github.com/DJehSantana">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJehSantana&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DJehSantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-          
+</div>  
           
           
           
@@ -70,18 +67,3 @@ Atualmente estou em transição de carreira, estudando Desenvolvimento Web!
 
 
 
-
-<!--
-**DJehSantana/DJehSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
