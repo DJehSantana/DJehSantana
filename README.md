@@ -30,7 +30,7 @@ Atualmente estou em transição de carreira, estudando Desenvolvimento Web!
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="50px" height="50px" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px" /> 
 </div>
-(https://user-images.githubusercontent.com/105378159/188524475-83652b5c-76fa-444e-8c10-faed1d113d7b.png)
+
 ## Áreas de interesse para o futuro
   - Desenvolvimento Mobile
   - Java Backend
