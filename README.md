@@ -50,12 +50,7 @@ Atualmente estou em transição de carreira, estudando Desenvolvimento Web!
 #### Contribuição no projeto em conjunto: **[ProjetoTechTeam - Sustenta Tech](https://wellpt.github.io/TechTeamProject/) - Projeto vencedor do **HACKATON** primeira edição Tech Academy 2022 - StartSe University**
 #### Conclusão do curso Tech Academy 1ª turma com a 10ª melhor média da turma
 
-<div>
-<a href="https://github.com/DJehSantana">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJehSantana&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DJehSantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>  
-          
+  
           
           
           
