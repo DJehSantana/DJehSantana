@@ -44,7 +44,7 @@ Atualmente estou em transição de carreira, estudando Desenvolvimento Web!
 **[Projeto_Apresentacao](https://djehsantana.github.io/Projeto_Apresentacao/)** 
 
 **[Mini site Devaria](https://djehsantana.github.io/MiniSite-Devaria/)**
-#### Projeto em desenvolvimento: Gerenciador de Tarefas - [Repositório](https://github.com/DJehSantana/GerenciadorTarefas)
+#### Projeto em desenvolvimento: Gerenciador de Tarefas - [Repositório da API](https://github.com/DJehSantana/GerenciadorTarefas) | [Repositório Frontend](https://github.com/DJehSantana/GerenciadorTarefasReact)
 
 ## Destaques e Conquistas:
 #### Contribuição no projeto em conjunto: **[ProjetoTechTeam - Sustenta Tech](https://wellpt.github.io/TechTeamProject/) - Projeto vencedor do **HACKATON** primeira edição Tech Academy 2022 - StartSe University**
