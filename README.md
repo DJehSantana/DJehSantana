@@ -13,7 +13,7 @@ Meu nome é Jéssica, tenho 28 anos, moro na cidade de Rio Claro - SP
 🚀 O que mais me fascina da área de tecnologia é o fato de ela estar sempre em constante evolução, porque eu amo aprender coisas novas e resolver problemas!<br><br>
 👋🏻 Quer conhecer um pouco mais sobre mim e sobre minha trajetória de estudos?
 
-**No meu [Linkedin](https://www.linkedin.com/in/jessica-santana-b78955244/)!** eu sempre compartilho um pouco da minha jornada.
+**No meu [Linkedin](https://www.linkedin.com/in/jessica-santana-b78955244/)** eu sempre compartilho um pouco da minha jornada.
 
 
 ### Conhecimento e experiência nas seguintes tecnologias e ferramentas:
@@ -55,7 +55,7 @@ Além de apresentar informações sobre a história, costumes, culinária e cult
 API desenvolvida em NodeJs para gerenciamento e cadastro de produtos, clientes, fornecedores e vendas. 
 Foi utilizado como Banco de Dados SQL o PostgreSQL e o Sequelize como ORM. Também foi utilizado o MongoDB e o mongoose para armazenar informações sobre os produtos. 
 
-#### [Decodificador de textos](https://github.com/DJehSantana/desafio-criptografia-one):
+#### [Decodificador de textos](https://djehsantana.github.io/desafio-criptografia-one/):
 Projeto desenvolvido durante o curso Alura ONE. Trata-se de uma aplicação para codificar e decodificar textos.
 
 #### Projeto Fullstack: Gerenciador de Tarefas - [Repositório da API](https://github.com/DJehSantana/GerenciadorTarefas) | [Repositório Frontend](https://github.com/DJehSantana/GerenciadorTarefasReact)
