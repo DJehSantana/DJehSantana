@@ -5,12 +5,13 @@
 
 <img src="https://user-images.githubusercontent.com/105378159/188499646-ec33930d-eaf9-4d06-8466-334ba6a12676.png" width="240px" height="300px"/>
 
-Meu nome é Jéssica, tenho 28 anos, moro na cidade de Rio Claro - SP
+Meu nome é Jéssica, tenho 29 anos e moro na cidade de Rio Claro - SP
 
-👩🏻‍💻 Estou cursando **Análise e Desenvolvimento de Sistemas** na Estácio. <br><br>
+👩🏻‍💻 Estou cursando **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul. Formação prevista para 2025.<br><br>
 🤓 Comecei a estudar Desenvolvimento Web por conta há cerca de um ano atrás e me apaixonei pela área! <br><br>
-✨ Além da faculdade sigo com meus estudos, atualmente estou dando prioridade a stack **backend**.<br><br>
-🚀 O que mais me fascina da área de tecnologia é o fato de ela estar sempre em constante evolução, porque eu amo aprender coisas novas e resolver problemas!<br><br>
+✨ Além da faculdade sigo com meus estudos, atualmente estou dando prioridade a stack **backend** com a linguagem Java.<br><br>
+🚀 O que mais me fascina da área de tecnologia é o fato de ela estar em constante evolução, porque eu amo aprender coisas novas!<br><br>
+😊 Já trabalhei em projetos freelancer e atualmente trabalho como Analista de Desenvolvimento de Sistemas na **Stefanini Brasil**.<br><br>
 👋🏻 Quer conhecer um pouco mais sobre mim e sobre minha trajetória de estudos?
 
 **No meu [Linkedin](https://www.linkedin.com/in/jessica-santana-b78955244/)** eu sempre compartilho um pouco da minha jornada.
@@ -18,33 +19,32 @@ Meu nome é Jéssica, tenho 28 anos, moro na cidade de Rio Claro - SP
 
 ### Conhecimento e experiência nas seguintes tecnologias e ferramentas:
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" /> 
-<img src="https://user-images.githubusercontent.com/105378159/188524475-83652b5c-76fa-444e-8c10-faed1d113d7b.png" width="50px" height="50px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50px" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" height="50px" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px" height="50px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" height="50px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50px" height="50px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" height="50px"/>    
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50px" height="50px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50px" height="50px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" /> 
+<img src="https://user-images.githubusercontent.com/105378159/188524475-83652b5c-76fa-444e-8c10-faed1d113d7b.png" width="50px" height="50px" /> 
+</div>
 
 ### Interesse em estudar ou estudando (linguagens, frameworks, tecnologias e ferramentas):
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="50px" height="50px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50px" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="50px" height="50px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50px" height="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px" /> 
                      
 </div>
 
 ## Áreas de interesse:
   - Desenvolvimento Web e Mobile
   - Java e Spring
-  - IoT
+  - Devops
 
 ## Principais projetos e atividades
 #### Contribuição no projeto em conjunto: **[ProjetoDev - Brasileirismo](https://matheusxavierr.github.io/ProjetoDev/)**
